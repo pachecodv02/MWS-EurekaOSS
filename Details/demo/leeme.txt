@@ -1,0 +1,6 @@
+########## 3 de octubre del 2020 ¢##########
+
+
+* Se implementa el uso de JPA 
+* Se implementa el uso de eureka client para registrar el servicios en  eureka registry
+* Se hace el uso de la BD SQL Server 

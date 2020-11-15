@@ -1,0 +1,4 @@
+####### 15 agosto 2020  ####
+
+* Implementa el uso de JPA y eureka client 
+*  Implementa el uso de feing para consumir servicios 

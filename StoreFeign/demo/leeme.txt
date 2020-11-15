@@ -1,0 +1,5 @@
+####### 15 de agosto del 2020 #######
+
+* Implementa consumo con RestTemplate (Para consumo de servicios URLs Externas) 
+* Implementa el patron de  diseño Circuit Breaker  (con Hystrix)
+* Implementa consumo de servicio con FeingClient
